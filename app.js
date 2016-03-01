@@ -16,6 +16,7 @@ var nav = [{
     Text: 'Admins'
 }];
 
+
 var adminRouter = require('./src/routes/adminroute.js')(nav);
 var authRouter = require('./src/routes/authRoutes.js')(nav);
 app.use(express.static('public'));
