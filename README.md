@@ -1,1 +1,1 @@
-Frameworks project , building a walking skeleton using MEAN stack. 
+Building a walking skeleton using the MEAN stack . MongoDB , Express jS, Angular JS, Node JS
